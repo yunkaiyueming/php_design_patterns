@@ -1,6 +1,6 @@
 # Php_Design_Patterns #
 学习理解设计模式，记录PHP关于23种设计模式的简单Demo  
-git@github.com:yunkaiyueming/php_design_patterns.git
+git@github.com:yunkaiyueming/php_design_patterns.git  
 
 设计模式分为：创建型模式， 结构型模式，行为型模式等23种设计模式。
 
@@ -32,3 +32,6 @@ git@github.com:yunkaiyueming/php_design_patterns.git
 访问者模式   
 中介者模式   
 解释器模式   
+
+### 参考：  
+http://nonfu.me/p/11370.html
