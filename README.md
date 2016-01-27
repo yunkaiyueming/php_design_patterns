@@ -25,13 +25,13 @@ git@github.com:yunkaiyueming/php_design_patterns.git
 模板方法模式template_method   
 观察者模式observer    
 迭代器模式decorator    
-责任链模式   
-命令模式   
-备忘录模式   
-状态模式   
-访问者模式   
-中介者模式   
-解释器模式   
+责任链模式responsibility_chain    
+命令模式command   
+备忘录模式memento    
+状态模式state     
+访问者模式visitor    
+中介者模式mediator   
+解释器模式interpreter  
 
 ### 参考：  
 http://nonfu.me/p/11370.html
