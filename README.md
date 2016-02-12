@@ -32,6 +32,3 @@ git@github.com:yunkaiyueming/php_design_patterns.git
 访问者模式visitor    
 中介者模式mediator   
 解释器模式interpreter  
-
-### 参考：  
-http://nonfu.me/p/11370.html
