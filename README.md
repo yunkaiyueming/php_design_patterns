@@ -1,8 +1,7 @@
 # Php_Design_Patterns #
-学习理解设计模式，记录PHP关于23种设计模式的简单Demo  
-git@github.com:yunkaiyueming/php_design_patterns.git  
+学习理解设计模式，记录PHP关于23种设计模式的使用,欢迎star  
 
-设计模式分为：创建型模式， 结构型模式，行为型模式等23种设计模式。
+设计模式分为：创建型模式， 结构型模式，行为型模式等23种设计模式。 
 
 ### 一、五种创建型模式如下：
 工厂方法模式factory_method   
